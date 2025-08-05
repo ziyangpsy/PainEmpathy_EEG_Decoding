@@ -1,4 +1,5 @@
 # ezDecoding
 
 Contains scripts for decoding Pain Empathy from EEG data and slides for Labmeeting. 
-Data and preprint available at:
+
+:Data and preprint links will be provided soon 
